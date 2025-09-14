@@ -1,9 +1,11 @@
 import streamlit as st
 import json
+import os
 
-# Load data
-with open(r"C:\Users\ROHIT\Documents\personal_chatbot\data.json", "r") as f:
+file_path = os.path.join(os.path.dirname(__file__), "data.json")
+with open(file_path, "r") as f:
     data = json.load(f)
+
 
 # --- App UI ---
 st.set_page_config(page_title="Rohit's Chatbot", page_icon="🤖", layout="centered")
