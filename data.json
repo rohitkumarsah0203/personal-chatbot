@@ -1,0 +1,16 @@
+{
+  "about": "Hi, I’m Rohit – a Strategy & Analytics professional passionate about solving business problems with data and AI.",
+  "experience": [
+    {"role": "Senior Analyst", "company": "PwC", "years": "2022–Present"},
+    {"role": "Analyst", "company": "PwC", "years": "2020–2022"}
+  ],
+  "skills": ["Financial Modeling", "Analytics", "Python", "Gen AI"],
+  "projects": [
+    "Built an optimization tool for client efficiency improvement",
+    "Validated a logistic regression model for US Bank"
+  ],
+  "fun_facts": [
+    "Loves travelling to heritage sites",
+    "Enjoys theme-based decorations"
+  ]
+}
